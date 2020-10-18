@@ -69,5 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## you have to run these commands
 
-npm install --save axios lodash
-npm install --save redux react-redux redux-thunk
+npm install --save axios lodash redux react-redux redux-thunk
