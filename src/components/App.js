@@ -10,4 +10,5 @@ const App = () => {
     );
 }
 
+//just comment
 export default App;
